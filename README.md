@@ -6,3 +6,5 @@
 6. distplot()에서 라인 속성 설정
 7. distplot()에서 밀도 분포 속성 설정
 8. distplot()에서 rug 설정
+
+개발환경: python3.6.7(32bit), Windows 10
